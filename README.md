@@ -105,22 +105,6 @@ A full-stack Library Management System with a Node.js/Express backend and Next.j
 }
 ```
 
-## Deployment
-
-### Backend
-The backend can be deployed on Heroku, Render, or any Node.js hosting service.
-
-### Frontend
-The Next.js frontend can be deployed on Vercel, Netlify, or any static site hosting.
-
-## Future Enhancements
-
-- User authentication and authorization
-- Book borrowing and return functionality
-- Search and filter functionality
-- Categories and tags for books
-- Integration with external book APIs for metadata
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -134,6 +118,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [rakib.devatmern@gmail.com](mailto:rakib.devatmern@gmail.com)
+Your Email - [rakib.devatmern@gmail.com](mailto:rakib.devatmern@gmail.com)
 
 Project Link: [https://github.com/abdur-rakib-rony/Building-a-library-books-management-system](https://github.com/abdur-rakib-rony/Building-a-library-books-management-system)
