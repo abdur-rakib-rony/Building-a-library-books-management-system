@@ -118,6 +118,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Email - [rakib.devatmern@gmail.com](mailto:rakib.devatmern@gmail.com)
+Contact - [rakib.devatmern@gmail.com](mailto:rakib.devatmern@gmail.com)
 
 Project Link: [https://github.com/abdur-rakib-rony/Building-a-library-books-management-system](https://github.com/abdur-rakib-rony/Building-a-library-books-management-system)
